@@ -14,6 +14,8 @@ var campgrounds = [
         {name: 'Granite Hill', image: "https://pixabay.com/get/e835b20e29f7083ed1584d05fb1d4e97e07ee3d21cac104491f2c378a6edbcb1_340.jpg"},
         {name: 'Salmon Creek', image: "https://pixabay.com/get/e03db50f2af41c22d2524518b7444795ea76e5d004b0144597f2c078a7e4bc_340.jpg"},
         {name: 'Granite Hill', image: "https://pixabay.com/get/e835b20e29f7083ed1584d05fb1d4e97e07ee3d21cac104491f2c378a6edbcb1_340.jpg"},
+        {name: 'Salmon Creek', image: "https://pixabay.com/get/e03db50f2af41c22d2524518b7444795ea76e5d004b0144597f2c078a7e4bc_340.jpg"},
+        {name: 'Granite Hill', image: "https://pixabay.com/get/e835b20e29f7083ed1584d05fb1d4e97e07ee3d21cac104491f2c378a6edbcb1_340.jpg"}
     ];
 
 app.get('/', function (req, res) {
